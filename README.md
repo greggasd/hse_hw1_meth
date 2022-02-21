@@ -57,5 +57,6 @@ plt.show()
 #### ICM
 ![Снимок экрана 2022-02-21 в 07 34 56](https://user-images.githubusercontent.com/93208971/154889824-731f93e1-130b-4e49-845c-2ccfab686de2.png)
 
-
+  ### f) Визуализируйте уровень метилирования и покрытия для каждого образца 
+![image_1_cov (2)](https://user-images.githubusercontent.com/93208971/154898707-4081544e-c6ed-44d7-8d4f-e206983f8d81.png)
 
